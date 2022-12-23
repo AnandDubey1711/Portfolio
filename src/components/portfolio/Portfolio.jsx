@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css';
 import IMG1 from '../../assets/CryptoDash.jpg';
 import IMG2 from '../../assets/Dashboard.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
+import Blog from '../../assets/Blog.png';
 import IMG4 from '../../assets/portfolio4.jpg';
 import IMG5 from '../../assets/Amazon_Web_Scraper_Api.png';
 import IMG6 from '../../assets/Climate_Change_News_Api.png';
@@ -33,9 +33,9 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-          <img src={IMG3} alt=""/>
+          <img src={Blog} alt=""/>
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Blogging Webapp</h3>
             <div className='portfolio__item-cta'><a href='https://github.com/AnandDubey1711/The_Happy_Blog_Path' className='btn' target='__blank'>GitHub</a>
             <a href='https://the-happy-path-s37d.vercel.app/' className='btn btn-primary' target='__blank'>Live Demo</a>
             </div> </article>
