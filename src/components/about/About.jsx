@@ -23,13 +23,13 @@ const About = () => {
               <article className='about__card'>
               <FaAward className='about__icon'/>
                 <h5>Experience</h5>
-                <small>1+ Years Working</small>
+                <small>6+ Months Working</small>
               </article>
               
               <article className='about__card'>
               <HiUsers className='about__icon'/>
-                <h5>Clients</h5>
-                <small>20+ Worldwide</small>
+                <h5>Domain</h5>
+                <small>Full Stack Development</small>
               </article>
 
               <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
             </div>
             
             <p>
-             Hello there, I am a MERN Stack Developer with a growing mindset to polish my skills more and more by each passing day
+             Hello there, I am a Full Stack Developer with a growing mindset to polish my skills more and more by each passing day
              . I like to do project based learning instead of going through tutorial hell and have built several projects in different 
              domain such as game, finance, health based webapps and i am looking forward to learn React-Native to build mobile apps as well.
             </p>

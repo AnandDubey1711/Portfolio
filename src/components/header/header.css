@@ -24,6 +24,9 @@ header{
     left:0;
     bottom: 3rem;
 }
+img{
+    height: 50%;
+}
 
 .header__socials::after{
     content: '';
