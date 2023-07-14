@@ -51,7 +51,7 @@ const Portfolio = () => {
           </div>
             <h3>Blogging Webapp</h3>
             <div className='portfolio__item-cta'><a href='https://github.com/AnandDubey1711/The_Happy_Path_Blog' className='btn' target='__blank'>GitHub</a>
-            <a href='https://the-happy-path-s37d.vercel.app/' className='btn btn-primary' target='__blank'>Live Demo</a>
+            <a href='https://the-happy-path.netlify.app/' className='btn btn-primary' target='__blank'>Live Demo</a>
             </div> </article>
 
         <article className='portfolio__item'>
